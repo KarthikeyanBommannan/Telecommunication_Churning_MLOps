@@ -1,7 +1,7 @@
-Telecommunication_Churning
+Telcommunication_Churn_MLOps
 ==============================
 
-Baesd on the data provided will be able to tell that the customer is like to stay or churn
+Based on the given details need to predict the customer will churn or stay.
 
 Project Organization
 ------------

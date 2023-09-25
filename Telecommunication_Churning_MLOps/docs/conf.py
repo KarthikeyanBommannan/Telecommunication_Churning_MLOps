@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Telecommunication_Churning documentation build configuration file, created by
+# Telcommunication_Churn_MLOps documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Telecommunication_Churning'
+project = u'Telcommunication_Churn_MLOps'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,7 +185,7 @@ latex_elements = {
 latex_documents = [
     ('index',
      'Telecommunication_Churning_MLOps.tex',
-     u'Telecommunication_Churning Documentation',
+     u'Telcommunication_Churn_MLOps Documentation',
      u"karthikeyanbommannan", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'Telecommunication_Churning_MLOps', u'Telecommunication_Churning Documentation',
+    ('index', 'Telecommunication_Churning_MLOps', u'Telcommunication_Churn_MLOps Documentation',
      [u"karthikeyanbommannan"], 1)
 ]
 
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'Telecommunication_Churning_MLOps', u'Telecommunication_Churning Documentation',
-     u"karthikeyanbommannan", 'Telecommunication_Churning',
-     'Baesd on the data provided will be able to tell that the customer is like to stay or churn', 'Miscellaneous'),
+    ('index', 'Telecommunication_Churning_MLOps', u'Telcommunication_Churn_MLOps Documentation',
+     u"karthikeyanbommannan", 'Telcommunication_Churn_MLOps',
+     'Based on the given details need to predict the customer will churn or stay.', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

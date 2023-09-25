@@ -1,9 +1,9 @@
-.. Telecommunication_Churning documentation master file, created by
+.. Telcommunication_Churn_MLOps documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Telecommunication_Churning documentation!
+Telcommunication_Churn_MLOps documentation!
 ==============================================
 
 Contents:
