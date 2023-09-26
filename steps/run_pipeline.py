@@ -1,6 +1,0 @@
-from pipelines.training_pipeline import train_pipeline
-
-
-if __name__ == "__main__":
-    # Run the pipeline
-    train_pipeline(data_path = r"C:\Users\karthikeyan\OneDrive\Desktop\Telco Churn\data\telcoChurn.csv")

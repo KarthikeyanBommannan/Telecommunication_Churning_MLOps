@@ -8,7 +8,3 @@ setup(
     author='KarthikeyanBommannan',
     license='MIT',
 )
-
-# hello
-# hello world
-# hello world .
