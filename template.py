@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO,format='%(asctime)s : %(message)s')
 
-project_name = "Telco Churn MLOps"
+project_name = "Telco_Churn_MLOps"
 
 list_of_file = [
     ".github/workflows/.gitkeep",
