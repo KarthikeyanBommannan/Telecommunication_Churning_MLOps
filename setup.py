@@ -21,8 +21,8 @@ setuptools.setup(
     url =f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_url ={
         "Bug Tracker":f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
-    }
-    package_dir = {"":"src"}
+    },
+    package_dir = {"":"src"},
     packages = setuptools.find_packages(where = "src")
     
 )
