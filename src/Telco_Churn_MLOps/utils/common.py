@@ -10,7 +10,7 @@ from typing import Any
 
 
 @ensure_annotations
-def read_yaml(path_to_yaml: path) -> ConfigBox:
+def read_yaml(path_to_yaml: str) -> ConfigBox:
     """
     Read a YAML file and return its contents as a ConfigBox object.
 
