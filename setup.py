@@ -21,8 +21,8 @@ setuptools.setup(
     url =f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_url ={
         "Bug Tracker":f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
-    }
-    package_dir = {"":"src"}
+    },
+    package_dir = {"":"src"},
     packages = setuptools.find_packages(where = "src")
     
 )
@@ -31,13 +31,4 @@ setuptools.setup(
 
 
 
-from setuptools import find_packages, setup
 
-setup(
-    name = 'src',
-    packages=find_packages(),
-    version='0.1.0',
-    description='Telecommunication Churn Project',
-    author='KarthikeyanBommannan',
-    license='MIT',
-)
